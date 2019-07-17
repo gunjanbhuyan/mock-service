@@ -12,6 +12,6 @@
 	"recognise":
 	{
 		"status" : "success",
-		"is_recognistion_on" : true;
+		"is_recognistion_on" : true
 	}
 }
