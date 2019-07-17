@@ -4,12 +4,12 @@
 		"status" : "success",
 		"is_locked" : true
 	},
-	"lock":
+  "lock":
 	{
 		"status" : "success",
 		"is_locked" : false
 	},
-	"recognise":
+  "recognise":
 	{
 		"status" : "success",
 		"is_recognistion_on" : true
