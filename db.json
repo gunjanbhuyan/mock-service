@@ -1,5 +1,5 @@
 {
-  "status/get":
+  "get-status":
 	{
 		"status" : "success",
 		"isLocked" : true
