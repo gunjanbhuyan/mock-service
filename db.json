@@ -1,17 +1,17 @@
 {
-  "get_lock_status":
+  "status/get":
 	{
 		"status" : "success",
-		"is_locked" : true
+		"isLocked" : true
 	},
   "lock":
 	{
 		"status" : "success",
-		"is_locked" : false
+		"isLocked" : false
 	},
   "recognise":
 	{
 		"status" : "success",
-		"is_recognistion_on" : true
+		"isRecognistionOn" : true
 	}
 }
