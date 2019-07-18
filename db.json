@@ -19,7 +19,7 @@
 		"status" : "success",
 		"isRecognistionOn" : true
 	},
-  "recognise-on":
+  "recognise-off":
 	{
 		"status" : "success",
 		"isRecognistionOn" : false
