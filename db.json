@@ -12,7 +12,7 @@
   "unlock":
 	{
 		"status" : "success",
-		"isLocked" : true
+		"isLocked" : false
 	},
   "recognise":
 	{
