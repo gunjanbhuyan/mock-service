@@ -7,7 +7,12 @@
   "lock":
 	{
 		"status" : "success",
-		"isLocked" : false
+		"isLocked" : true
+	},
+  "unlock":
+	{
+		"status" : "success",
+		"isLocked" : true
 	},
   "recognise":
 	{
